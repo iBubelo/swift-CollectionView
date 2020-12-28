@@ -2,7 +2,6 @@
 //  SceneDelegate.swift
 //  CollectionView
 //
-//  Created by Ilya Bubelo on 28.12.20.
 //
 
 import UIKit
